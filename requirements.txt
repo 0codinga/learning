@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 gunicorn
 django-heroku
-=======
 Pillow
 >>>>>>> local
